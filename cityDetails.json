@@ -1,0 +1,21 @@
+[
+	{
+		"cityName":"Kathmandu",
+		"cityId":101,
+		"cityImg":"https://cdn.theconversation.com/files/80059/width926/image-20150501-12614-wyxe7r.jpg",
+		"cityDesc":"Kathmandu-- Kathmandu is the capital of the kingdom, situated in a valley which is an open air museum of famous sites, ancient temples and shrines, golden pagodas and are inspiring deities, is a city of inexhaustible historic artistic and cultural interest."
+	},
+	{
+	"cityName":"Pokhara",
+	"cityId":102,
+	"cityImg":"http://www.treknepalhimalaya.com/images/view-from-pokhara.jpg",
+	"cityDesc":"It is the third largest city of Nepal after Kathmandu & Biratnagar. It is the Headquarters of Kaski District, Gandaki Zone and the Western Development Region. Pokhara is one of the most popular tourist destinations in Nepal"
+	},
+	{
+		"cityName":"Lumbini",
+		"cityId":103,
+		"cityImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lumbini_-_Mayadevi_Temple_from_South%2C_Lumbini_%289244243566%29.jpg/300px-Lumbini_-_Mayadevi_Temple_from_South%2C_Lumbini_%289244243566%29.jpg",
+		"cityDesc":"ll"
+	}
+
+]
