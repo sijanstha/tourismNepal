@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m "your message here"
+git pull origin branchname(master)
+git push origin branchname(master)
